@@ -73,20 +73,9 @@ The Drag-and-Drop Todo List App is a simple yet powerful React application that 
 
 **File Structure**
 
+![image alt](https://github.com/Deepakyadav072/Task-manager/blob/65a54d68da629a674d87d10358d41be09f995b13/task-manager/Screenshot%20(396).png)
 
-task-manager/
-├── src/
-│   ├── App.jsx           # Main application component
-│   ├── App.css           # Application styles
-│   ├── main.jsx          # Application entry point
-│   ├── index.css         # Global styles
-│   └── assets/           # Static assets
-├── public/               # Public static files
-├── index.html            # HTML template
-├── package.json          # Project dependencies
-├── vite.config.js        # Vite configuration
-├── eslint.config.js      # ESLint configuration
-└── README.md             # Project documentation
+
 
 
 ## Future Enhancements
