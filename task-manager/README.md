@@ -1,11 +1,13 @@
 **Task Manager** -- Drag-and-Drop Todo List App In React.
 **Live Demo:** --
 
+
 A modern task management application built with React and Vite.
 
 **Overview**
 
 The Drag-and-Drop Todo List App is a simple yet powerful React application that allows users to manage their tasks efficiently. The app enables users to create, update, and delete tasks, add due dates and priority levels (Low, Medium, High), and drag and drop tasks between different categories. The state of the tasks is stored in localStorage, ensuring that progress is retained even after a page refresh.
+
 
 
 
